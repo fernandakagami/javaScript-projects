@@ -12,4 +12,4 @@ Some changes in pastes were made to Gib Pages works.
     <li>API</li>
 </ul>
 
-<<a href="https://fernandakagami.github.io/javaScript-projects/introdu%C3%A7%C3%A3o-a-javaScript/" target="_blank">Link to project</a>
+<a href="https://fernandakagami.github.io/javaScript-projects/introdu%C3%A7%C3%A3o-a-javaScript/" target="_blank">Link to project</a>
