@@ -1,6 +1,14 @@
-# Spider-Man Multiverse
+# Pokedex
 
-Project of Spider-Man Multiverse. It was done in a course. The course was made by Dio.
-Some changes in pastes were made to Gib Pages works.
+Project of Pokedex. It was done in a course. The course was made by Dio.
 
-<a href="https://fernandakagami.github.io/event-projects/dio-multiverse/index.html">Link to page</a>
+# Tecnology
+
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>API</li>
+</ul>
+
+<a href="https://fernandakagami.github.io/javaScript-projects/introdu%C3%A7%C3%A3o-a-javaScript/" target="_blank">Link to project</a>
