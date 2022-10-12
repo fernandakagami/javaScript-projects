@@ -1,4 +1,4 @@
-﻿# Introdução à JavaScript
+# Introdução à JavaScript
 
 The project was made in an Alura course. 
 
