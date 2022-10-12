@@ -8,8 +8,7 @@ Some changes in pastes were made to Gib Pages works.
 <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript</li>
-    <li>API</li>
+    <li>JavaScript</li>    
 </ul>
 
-<a href="https://fernandakagami.github.io/javaScript-projects/introdu%C3%A7%C3%A3o-a-javaScript/" target="_blank">Link to project</a>
+<a href="https://fernandakagami.github.io/javaScript-projects/dio-multiverse/" target="_blank">Link to project</a>
